@@ -1,0 +1,1 @@
+<div class="footer">&copy; 2015 <a href="http://mavroudisv.eu" target="_blank">Vasilis Mavroudis</a><br> <a href="http://webknock.org/privacy.html" target="_blank">Privacy Policy</a> <a href="http://webknock.org/terms-of-service.html" target="_blank">Terms of Service</a> <a href="http://webknock.org/AUP.html" target="_blank">Acceptable Use Policy</a> </div>
